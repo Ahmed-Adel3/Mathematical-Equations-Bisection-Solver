@@ -1,0 +1,6 @@
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\bin\Debug\Bisection Method Solver.exe.config
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\bin\Debug\Bisection Method Solver.exe
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\bin\Debug\Bisection Method Solver.pdb
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\obj\Debug\Bisection Method Solver.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\obj\Debug\Bisection Method Solver.exe
+C:\Users\Ahmed\Desktop\New folder\Bisection Method Solver\Bisection Method Solver\obj\Debug\Bisection Method Solver.pdb
